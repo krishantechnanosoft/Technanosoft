@@ -1,3 +1,3 @@
 # Technanosoft
 Audio Chat Application
-<a href="https://technanosoft.com">Technanosoft Technologies</a>
+<a href="https://technanosoft.com" rel="follow">Technanosoft Technologies</a>
