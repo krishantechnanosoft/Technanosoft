@@ -1,0 +1,16 @@
+{
+   "name": "webrtc-audiochat",
+   "version": "0.1.0",
+   "description": "webrtc-audiochat",
+   "author": "Author",
+   "license": "BSD-2-Clause",
+   "main": "app.js",
+   "dependencies": {
+      "body-parser": "^1.19.0",
+      "bootstrap": "^5.0.1",
+      "express": "^4.17.1",
+      "fs": "0.0.1-security",
+      "http": "0.0.1-security",
+      "ws": "^7.4.5"
+   }
+}
